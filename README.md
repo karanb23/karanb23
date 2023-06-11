@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan !
-- 👀 I’m interested in Computer Science,AI,Data Science.
-- 🌱 I’m currently working as a Data Engineer.
+- 👀 Computer Science Engineering graduate with interest in AI,ML & Data Science.
+- 🌱 I’m currently working as a Senior Data Engineer.
 - 💞️ I’m looking to collaborate on open source Data Engineering/Data Science Projects.
 - 📫 How to reach me - You can reach me through my mail_id : karanb18@gmail.com
 
